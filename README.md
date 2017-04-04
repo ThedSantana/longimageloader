@@ -1,2 +1,2 @@
-# longimageloader
-android Long Image DownLoader And draw to ListView or Webview
+# Long Image Loader
+WebView Style, ListView Style

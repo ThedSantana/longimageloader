@@ -1,0 +1,44 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release' // must be applied after your artifact generating plugin (eg. java / com.android.library)
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.novoda:bintray-release:0.4.0'
+    }
+}
+
+publish {
+    userOrg = 'sheiud123'
+    groupId = 'com.sheiud.redbible'
+    artifactId = 'longimageloader'
+    publishVersion = '0.0.9-beta'
+    desc = 'android Long Image DownLoader And draw to ListView or Webview'
+    website = 'https://github.com/redbible/longimageloader'
+    issueTracker = "${website}/issues"
+    repository = "${website}.git"
+}
+
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        minSdkVersion 11
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.1"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+}
+
+dependencies {
+    compile 'com.squareup.picasso:picasso:2.5.2'
+}

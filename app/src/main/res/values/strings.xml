@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LongImageLoader</string>
+    <string name="web_view">WebView</string>
+    <string name="text_view">TextView</string>
+</resources>

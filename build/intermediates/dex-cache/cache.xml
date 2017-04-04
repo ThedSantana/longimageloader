@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bible/.android/build-cache/14dab7c71dcd0a10e44412b841f228ea9859a0eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/bible/workspace/example/richtext-master/app/build/intermediates/pre-dexed/debug/classes_119f993e922ef99f6556807c7b6c1afa17108847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bible/.android/build-cache/87cb2cf4746a5ea1d7ebc0d5ffbb83e47a1d73d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/bible/workspace/example/richtext-master/app/build/intermediates/pre-dexed/debug/classes_85fa4ef20e776f63b20590a7474775a29090137a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bible/.android/build-cache/70e85d33c998cdab095b6aa09619a6e00ffcba8c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/bible/workspace/example/richtext-master/app/build/intermediates/pre-dexed/debug/classes_772a8b948a1259e8f777263a1907f8254247186e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bible/.android/build-cache/70e85d33c998cdab095b6aa09619a6e00ffcba8c/output/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/bible/workspace/example/richtext-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_2bf2074eb1e588983530fe1eb288c0eed872e35a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bible/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/bible/workspace/example/richtext-master/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_bd0e69e3ce473c4b4e622908417c196d0a40055c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bible/.android/build-cache/926fb180f5ed204f832635a9e7a86d646ab8fc0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/bible/workspace/example/richtext-master/app/build/intermediates/pre-dexed/debug/classes_34d7e7e4d110db9474080309eb8fff3b71b09a44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bible/workspace/example/richtext-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/bible/workspace/example/richtext-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_379b6aeffd6ef1d618a0dab05dcf163fcf839198/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bible/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/bible/workspace/example/richtext-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_6139d76f34e2fbc41b1a529a470dcfe8c8a20f3f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bible/workspace/example/richtext-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d0630cf0604561bdd21aa9753154097a38debb8">
+        <dex dex="/Users/bible/workspace/example/richtext-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_50c4ae017fe6acc534f51467a328497a55bb8be5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bible/workspace/example/longimageloader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/bible/workspace/example/longimageloader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0377be82e6eca42e06cace6442cd9484413940d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bible/workspace/example/longimageloader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be5e6be64c1c6925d7b5768ca96631e0161cf723">
+        <dex dex="/Users/bible/workspace/example/longimageloader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c8e256393374b55ff359b9576cce095e61bb11b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bible/workspace/example/richtext-master/longimageloader/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88984d2ba32343168f5e483139dc98393e6d4d83">
+        <dex dex="/Users/bible/workspace/example/richtext-master/app/build/intermediates/pre-dexed/debug/classes_705e5b489712899e2088d427a1a1fccb93decfb7.jar" />
+    </item>
+
+</items>
