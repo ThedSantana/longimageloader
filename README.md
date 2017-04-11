@@ -2,6 +2,14 @@
 Use WebView or ListView Style
 
 # Download
+in app gradle
+
+repositories {
+    maven {
+        url  "http://dl.bintray.com/sheiud123/maven"
+    }
+}
+
 compile 'com.sheiud.redbible:longimageloader:0.0.9-beta'
 
 this is beta version, But it's works.
