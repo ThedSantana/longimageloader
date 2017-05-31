@@ -74,7 +74,7 @@ public class LongImageLoader {
                 "<style type=\"text/css\">%s</style>" +
                 "</head><body>" +
                 "<img src=%s>" +
-                "</body></html>]]>", style, imgUrl);
+                "</body></html>", style, imgUrl);
         webView.loadDataWithBaseURL(null, formString
                 , "text/html", "UTF-8", null);
     }

@@ -14,7 +14,7 @@ publish {
     userOrg = 'sheiud123'
     groupId = 'com.sheiud.redbible'
     artifactId = 'longimageloader'
-    publishVersion = '0.0.9-beta'
+    publishVersion = '0.1'
     desc = 'android Long Image DownLoader And draw to ListView or Webview'
     website = 'https://github.com/redbible/longimageloader'
     issueTracker = "${website}/issues"
